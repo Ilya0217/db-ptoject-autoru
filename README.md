@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/53f5715a-3d53-4b65-b8b8-991430a423fc)# db-ptoject-autoru
+![image](https://github.com/user-attachments/assets/53f5715a-3d53-4b65-b8b8-991430a423fc)
 **Users**
 ![image](https://github.com/user-attachments/assets/41e86d8c-222e-44a6-ab5b-37764ec3e09b)
 **Announcement**
