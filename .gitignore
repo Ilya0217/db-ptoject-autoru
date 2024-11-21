@@ -1,0 +1,13 @@
+# Игнорируем файлы конфигурации Docker
+docker-compose.yml
+FillTables.Dockerfile
+requirements.txt
+
+# Игнорируем временные файлы и директории
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.env
+*.log
